@@ -22,7 +22,7 @@ module.exports = function(grunt) {
     NG_VERSION: NG_VERSION,
     bp_build: {
       options: {
-        buildPath: 'build/benchmarks'
+        buildPath: 'build/benchmarks',
         benchmarksPath: 'benchmarks'
       }
     },
